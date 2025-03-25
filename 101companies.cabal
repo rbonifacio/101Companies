@@ -17,6 +17,7 @@ common warnings
 
 library myfirstapp-lib
   exposed-modules:
+    Deco    
     Syntax
     Sample
     HaskellEncoder
